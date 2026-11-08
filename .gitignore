@@ -1,0 +1,6 @@
+# Chaves e arquivos locais
+.env
+*.key
+secrets*
+__pycache__/
+*.pyc
